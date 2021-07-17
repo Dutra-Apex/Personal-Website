@@ -14,7 +14,6 @@ function About(){
         </p>
       </header>
       </div>
-
     )
 }
 
